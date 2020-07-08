@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e3b76289.chunk.css",
+    "main.js": "/static/js/main.0034cc66.chunk.js",
+    "main.js.map": "/static/js/main.0034cc66.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fdaf22cd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fdaf22cd.js.map",
+    "static/js/2.b5e937ce.chunk.js": "/static/js/2.b5e937ce.chunk.js",
+    "static/js/2.b5e937ce.chunk.js.map": "/static/js/2.b5e937ce.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.1ec673d53c5e6f3c68a60df9142169e3.js": "/precache-manifest.1ec673d53c5e6f3c68a60df9142169e3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e3b76289.chunk.css.map": "/static/css/main.e3b76289.chunk.css.map",
+    "static/js/2.b5e937ce.chunk.js.LICENSE.txt": "/static/js/2.b5e937ce.chunk.js.LICENSE.txt",
+    "static/media/Body.css": "/static/media/wordpress.2e1b051b.jpg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdaf22cd.js",
+    "static/js/2.b5e937ce.chunk.js",
+    "static/css/main.e3b76289.chunk.css",
+    "static/js/main.0034cc66.chunk.js"
+  ]
+}
